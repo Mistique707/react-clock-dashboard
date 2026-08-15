@@ -23,15 +23,6 @@ controls into a single responsive interface with smooth, performance-friendly an
 - React 18, Vite 6
 - `Intl.DateTimeFormat` for zone-accurate time — no date library.
 
-## Getting started
-
-```bash
-npm install
-npm run dev
-```
-
-Then open the URL Vite prints (default <http://localhost:5173>).
-
 ## Build
 
 ```bash
